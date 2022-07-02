@@ -1,8 +1,12 @@
 # Spam_Email_Detection
 
+
+
 🔸 What is Natural Language Processing?
 
 NLP is broadly defined as the automatic manipulation of natural language, like speech and text, by software. Everything we express (either verbally or in written) carries huge amounts of information. Like the topic we choose, our tone, our selection of words, everything adds some type of information that can be interpreted and value extracted from it.
+
+
 
 🔸 About the Project:
 
